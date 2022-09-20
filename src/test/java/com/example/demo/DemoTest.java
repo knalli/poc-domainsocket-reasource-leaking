@@ -1,7 +1,7 @@
 package com.example.demo;
 
+import com.github.dockerjava.transport.DomainSocket;
 import org.junit.jupiter.api.Test;
-import org.springframework.boot.buildpack.platform.socket.DomainSocket;
 import org.springframework.lang.Nullable;
 
 import java.io.IOException;
